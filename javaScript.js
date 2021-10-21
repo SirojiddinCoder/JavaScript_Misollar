@@ -94,39 +94,3 @@
 // var K=((a ** 2 )+ (b ** 2)) ** 0.5;
 
 // console.log("O'rta Geometrigi="+ K);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// var a=parseInt(prompt("Sonni kiritng"));
-// var birliklar=parseInt(a/1)%10;
-// var unliklar=parseInt(a/10)%10;
-// var yuzliklar=parseInt(a/100)%10;
-// var res=birliklar+unliklar+yuzliklar;
-// alert("Raqamlari yig'gindis "+res+" ga teng");
